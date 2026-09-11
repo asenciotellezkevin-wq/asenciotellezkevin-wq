@@ -1,104 +1,40 @@
-# 👨‍💻 Kevin Sneider Asencio Tellez
+Kevin Sneider Asencio Tellez 
+Estudiante de Grado 1105 Institución Educativa El Chairá José Maria Córdoba 
 
-**Estudiante de Grado 11-05** | Institución Educativa El Chairá José María Córdoba
 
----
+Sobre mi
 
-## 🎯 Acerca de Mí
+Mi nombre es Kevin Sneider Asencio Tellez y soy estudiante de la Institución Educativa El Chairá José María Córdoba del grado 11-05 Soy una persona responsable, respetuosa y amigable. Me gusta aprender cosas nuevas y trabajar en equipo. También me interesa la tecnología y quiero seguir aprendiendo para cumplir mis metas.
 
-Soy **Kevin Sneider Asencio Tellez**, estudiante de la Institución Educativa El Chairá José María Córdoba del grado 11-05. Soy una persona **responsable, respetuosa y dedicada** a alcanzar mis objetivos. Me apasiona la **tecnología** y disfruto aplicando mis conocimientos en proyectos que generen impacto.
+Proyectos 
 
-> *"Creo en el poder del aprendizaje continuo y la excelencia en todo lo que hago."*
+Mi proyecto de vida es terminar mis estudios de bachillerato y después estudiar una carrera de ingeniería. Me gustaría prepararme bien, aprender sobre tecnología y desarrollar habilidades que me ayuden en mi futuro profesional.Quiero ser un buen ingeniero, conseguir un trabajo estable y poder ayudar a mi familia. Sé que para lograrlo debo ser responsable, estudiar, esforzarme y no rendirme cuando se presenten dificultades. Mi meta es seguir aprendiendo y construir un buen futuro con mi propio esfuerzo.
+Experiencia 
 
----
+ he adquirido experiencia realizando trabajos y proyectos escolares, tanto individualmente como en equipo. He aprendido a utilizar diferentes herramientas tecnológicas, buscar información, organizar mis trabajos y presentar mis ideas.
+También he participado en actividades donde he tenido que colaborar con mis compañeros cumplir con responsabilidades y buscar soluciones a diferentes tareas.
 
-## 🚀 Mi Visión
+HABILIDADES
 
-Mi objetivo es **completar mi bachillerato con excelencia** y continuar con una carrera en **Ingeniería**. Deseo formarme sólidamente en tecnología y desarrollar habilidades que me permitan aportar soluciones innovadoras en el campo de la ingeniería y la tecnología.
+Manejo de herramientas tecnológicas.
 
----
+trabajo en equipo.
 
-## 💼 Experiencia Profesional
+Aprendo rápido cuando algo me interesa.
 
-### Proyectos Académicos
-- Desarrollo de proyectos escolares individuales y colaborativos
-- Manejo de herramientas tecnológicas modernas
-- Investigación y análisis de información
-- Organización y gestión de tareas complejas
+Me esfuerzo por cumplir con mis compromisos 
 
-### Trabajo en Equipo
-- Colaboración efectiva con compañeros
-- Cumplimiento de responsabilidades compartidas
-- Resolución creativa de problemas
-- Liderazgo en iniciativas grupales
+ Soy responsable con mis actividades.
+RECONOCIMIENTOS
 
----
+Certificación por Logros Extracurriculares y Seminarios
+Constancia de participación en talleres presenciales o programa cursados por iniciativa propia fuera del horario escolar.
 
-## 🛠️ Habilidades Técnicas
+Acreditación de Competencias y Cursos Especializados (SENA)
+Constancia por haber completado y Cursos adicionales a través del Servicio Nacional de Aprendizaje SENA. Evidencia el compromiso con la mejora continua, el autoaprendizaje y el fortalecimiento práctico de las habilidades académicas y laborales.
 
-| Habilidad | Nivel |
-|-----------|-------|
-| 💻 Herramientas Tecnológicas | ⭐⭐⭐⭐⭐ |
-| 🤝 Trabajo en Equipo | ⭐⭐⭐⭐⭐ |
-| 📚 Aprendizaje Rápido | ⭐⭐⭐⭐⭐ |
-| ✅ Cumplimiento de Compromisos | ⭐⭐⭐⭐⭐ |
-| 📋 Responsabilidad | ⭐⭐⭐⭐⭐ |
+IDIOMAS
+Nativo
 
----
 
-## 🏆 Reconocimientos y Certificaciones
 
-### 📜 Certificación por Logros Extracurriculares
-Reconocimiento por participación en talleres presenciales y programas cursados por iniciativa propia fuera del horario escolar, demostrando compromiso con el aprendizaje continuo.
-
-### 🎓 Acreditación SENA
-Certificación del Servicio Nacional de Aprendizaje (SENA) por completar cursos especializados. Evidencia mi compromiso con:
-- ✨ Mejora continua
-- 📖 Autoaprendizaje
-- 💪 Fortalecimiento de competencias laborales
-
----
-
-## 📂 Mi Portafolio
-
-### 📄 CV y Portafolio Profesional
-**[📥 Abre mi documento completo](https://docs.google.com/document/d/1xFeK7DnN4MsBW2ByuzILdhCgkzM8VriG/edit)**
-
-Descubre más sobre mi experiencia, proyectos destacados y logros académicos.
-
----
-
-## 📬 Ponte en Contacto Conmigo
-
-<div align="center">
-
-| Medio | Información |
-|-------|-------------|
-| 📱 **Teléfono** | [321 959 9837](tel:+573219599837) |
-| 📧 **Email** | [asenciotellezkevin@gmail.com](mailto:asenciotellezkevin@gmail.com) |
-| 🔗 **GitHub** | [@asenciotellezkevin-wq](https://github.com/asenciotellezkevin-wq) |
-
-</div>
-
----
-
-## 📊 Mis Estadísticas
-
-```
-┌─────────────────────────────────┐
-│  🎓 Estudiante de Excelencia    │
-│  💡 Innovador                   │
-│  🔧 Técnico en Formación        │
-│  🌟 Comprometido con Objetivos  │
-└─────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-### ⭐ *Si te gustó mi perfil, considera darme una estrella en GitHub* ⭐
-
-**Última actualización:** Septiembre 2026
-
-</div>
