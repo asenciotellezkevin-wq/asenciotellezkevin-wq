@@ -36,7 +36,7 @@ También he participado en actividades donde he tenido que colaborar con mis com
 
 ## 📁 Portafolio
 
-- 📄 **[Mi CV y Portafolio Profesional](https://docs.google.com/document/d/1K8Hy6ffeUSIMfCbMel0TRKJNzlaa0L8yAJ0XRDW6pMI/edit?usp=drivesdk)** - Documento con mi experiencia y proyectos destacados
+- 📄 **[Mi CV y Portafolio Profesional](https://docs.google.com/document/d/1xFeK7DnN4MsBW2ByuzILdhCgkzM8VriG/edit)** - Documento con mi experiencia y proyectos destacados
 
 ---
 
